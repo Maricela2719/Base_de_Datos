@@ -24,6 +24,7 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 * Muestra que periodistas colaboraron en x revista y en que sucursal se publico la revista
 
+![image](https://user-images.githubusercontent.com/101481188/172029230-cdc8d1a5-5bf8-444c-b9d3-96ecf7552c6a.png)
 
 
 
