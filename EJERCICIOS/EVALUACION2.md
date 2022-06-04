@@ -5,20 +5,47 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+  SELECT
+
+  INSERT
+
+  UPDATE
+
+  DELETE
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
+
+  VARCHAR: cadena de caracteres con longitud de datos variable
+  
+  BIGINT: un entero de tamaño grande
+  
+  DATETIME: dato de fecha y hora
 
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+  DELETE borra una serie de filas de la tabla y TRUNCATE elimina todas las filas de la tabla sin borrar la tabla, incluyendo los contadores de auto incremento a 0.
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
 
+  Como atributo a los campos que requerimos, para tengan datos que no se puedan repetir.
+  
+  
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
+
+    CHAR es una cadena de caracteres de longitud fija, esa longitud especificada por el usuario. VARCHAR es una cadena de caracteres de longitud variable con una           longitud máxima n especificada por el usuario. Con CHAR al recibir los datos, siempre ocuparán la longitud que definimos, los llenemos de datos o no.
+
+Pero esto tiene algún beneficio, y es que CHAR es más rápido que VARCHAR en cuanto a rendimiento, ya que se sabe de antemano cuál es la longitud de los datos, no como VARCHAR que tiene una longitud variable.
 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+  SQL por sus siglas en inglés significa Lenguaje de Consulta Estructurada (Structured Query Language).Es un lenguaje estándar e interactivo de acceso a bases de datos   relacionales.
+
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+    Un editor visual de base de datos que integra desarrollo de software, administración de bases de datos, diseño de bases de datos, creación y mantenimiento para el      sistema de base de datos MySQL.
 
 ## Práctica 5.
 ### Gestores de base de datos
