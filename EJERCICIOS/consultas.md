@@ -32,8 +32,17 @@ En la BD utilizada en clase realiza las siguientes consultas:
 
 ![image](https://user-images.githubusercontent.com/101481188/172028759-7dd2a059-0b98-488b-9d24-f2b34540e169.png)
 
-* En la tabla peridistas muestra solo los que escriban sobre cine
+* En la tabla periOdistas muestra solo los que escriban sobre cine
+
+![image](https://user-images.githubusercontent.com/101481188/172029488-13878f1c-be7a-4ccd-a1dc-9b76ede7c6db.png)
+
+
+
 * De la tabla revistas muestra las que sean de publicacion quincenal
+
+![image](https://user-images.githubusercontent.com/101481188/172029462-4f265ec5-3f50-431f-bba3-35259d599f9f.png)
+
+
 * Muestra el nombre de ka revista que se hayan impreso despues del 30 de septiembre del 2021
 * Muestra el nombre de la revista que se haya publicado en la sucursal 1 cuyos ejemplares tengan más de 80 páginas.
 
