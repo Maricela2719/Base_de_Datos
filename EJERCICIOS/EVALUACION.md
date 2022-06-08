@@ -80,4 +80,4 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 Código SQL
-https://www.db-fiddle.com/f/f2zvBRKrv2qNawiG2EQxLf/9
+https://www.db-fiddle.com/f/f2zvBRKrv2qNawiG2EQxLf/13
