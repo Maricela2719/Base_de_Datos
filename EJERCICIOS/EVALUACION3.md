@@ -60,6 +60,7 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 
+![image](https://user-images.githubusercontent.com/101481188/172981803-e876c996-7c8d-4955-8309-7b93cb67d516.png)
 
 
 
@@ -73,5 +74,5 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 
 My código SQL:
 
-https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/4
+https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/6
 
