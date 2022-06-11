@@ -16,7 +16,7 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 2. Lista todas las columnas de la tabla producto.
 
 
-![image](https://user-images.githubusercontent.com/101481188/173170931-6ff36b93-b05e-479a-a940-9ee9652d47aa.png)
+![image](https://user-images.githubusercontent.com/101481188/173180610-15af2848-d8a7-4085-8f6c-ef8e5691d559.png)
 
 
 
@@ -24,7 +24,7 @@ Lista el nombre de todos los productos que hay en la tabla producto.
 todos los productos de la base de datos.
 
 
-![image](https://user-images.githubusercontent.com/101481188/173172110-f60d31a2-9871-4bfa-8682-8ad3ac52af4a.png)
+![image](https://user-images.githubusercontent.com/101481188/173180772-4a5bd930-0692-4690-b6ea-db3d8255750a.png)
 
 
 Subconsultas (En la cláusula WHERE)
@@ -32,8 +32,16 @@ Subconsultas (En la cláusula WHERE)
 JOIN).
 
 
+![image](https://user-images.githubusercontent.com/101481188/173181027-39d156a6-230b-460e-b21d-f4870c0e7949.png)
+
+
+
 2. Devuelve todos los datos de los productos que tienen el mismo precio que el
 producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
 
 3. Lista el nombre del producto más caro del fabricante Lenovo.
+
+
+![image](https://user-images.githubusercontent.com/101481188/173181543-e1847120-566c-4066-a939-e61599e2edfe.png)
+
