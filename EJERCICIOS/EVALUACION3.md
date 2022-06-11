@@ -33,7 +33,7 @@ Ejercicio:
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
 
-![image](https://user-images.githubusercontent.com/101481188/172546739-f9c0c59f-49ff-4a82-a9bc-8c56eb88d668.png)
+![image](https://user-images.githubusercontent.com/101481188/173177340-2a8a0cd4-118e-4c13-ae7b-6195133d4b12.png)
 
 
 
@@ -43,8 +43,7 @@ mostrará dos columnas, una con el nombre del fabricante y otra con el número d
 productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
-
-![image](https://user-images.githubusercontent.com/101481188/172548451-c3b912c8-ff11-4f92-9101-63d1b61cf63d.png)
+![image](https://user-images.githubusercontent.com/101481188/173177529-44939f20-dbe9-44cf-9b3e-8d426a90933c.png)
 
 
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
@@ -52,7 +51,7 @@ uno de los fabricantes. El resultado mostrará el nombre del fabricante junto co
 datos que se solicitan. (valor 4.5)
 
 
-![image](https://user-images.githubusercontent.com/101481188/172551411-6eb11484-8297-4f70-8802-6381fd69d0dd.png)
+![image](https://user-images.githubusercontent.com/101481188/173177631-360564c2-bf6a-497b-874a-2f83f5d3392c.png)
 
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
@@ -60,7 +59,7 @@ precio medio y el número total de productos de los fabricantes que tienen un pr
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
 
 
-![image](https://user-images.githubusercontent.com/101481188/172981803-e876c996-7c8d-4955-8309-7b93cb67d516.png)
+![image](https://user-images.githubusercontent.com/101481188/173177798-ac0d95a5-6f81-471d-8aeb-2d75f47104f3.png)
 
 
 
@@ -74,5 +73,5 @@ medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4
 
 My código SQL:
 
-https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/6
+https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/8
 
