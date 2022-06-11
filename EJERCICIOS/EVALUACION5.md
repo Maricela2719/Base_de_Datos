@@ -40,10 +40,14 @@ JOIN).
 producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
 
+![image](https://user-images.githubusercontent.com/101481188/173207751-b7746d27-4fce-4bab-aa33-36221bfce909.png)
+
+
+
 3. Lista el nombre del producto más caro del fabricante Lenovo.
 
 
 ![image](https://user-images.githubusercontent.com/101481188/173181543-e1847120-566c-4066-a939-e61599e2edfe.png)
 
 
-Mi codigo SQL  https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/10
+Mi codigo SQL  https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/11
