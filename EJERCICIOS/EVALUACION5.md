@@ -45,3 +45,5 @@ producto más caro del fabricante Lenovo. (Sin utilizar INNER JOIN).
 
 ![image](https://user-images.githubusercontent.com/101481188/173181543-e1847120-566c-4066-a939-e61599e2edfe.png)
 
+
+Mi codigo SQL  https://www.db-fiddle.com/f/7yKpRtJWZcq13FFvAe4ReH/10
